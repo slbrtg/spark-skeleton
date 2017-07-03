@@ -1,2 +1,2 @@
-import junit.org.*;
-import junit.org.Assert.*;
+import org.junit.*;
+import org.junit.Assert.*;
